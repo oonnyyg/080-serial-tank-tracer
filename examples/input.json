@@ -1,0 +1,11 @@
+[
+  {
+    "name": "pulse-demo",
+    "volumes": [100.0, 100.0, 100.0],
+    "initial_concentrations": [0.0, 0.0, 0.0],
+    "flow_rate": 10.0,
+    "end_time": 120.0,
+    "inlet_schedule": [[0.0, 8.0], [30.0, 0.0]],
+    "step_size": 6.0
+  }
+]
